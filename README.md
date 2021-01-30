@@ -1,4 +1,4 @@
-# frontend
+# Devops Sample
 
 ## Project setup
 ```
