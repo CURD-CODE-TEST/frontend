@@ -25,5 +25,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Sample Links
 
-## App: 
+## App: http://18.183.235.161:18000/
 ## Jenkins:
