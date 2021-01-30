@@ -8,7 +8,7 @@ A simple CURD with RESTful API and devops process
 ### Tips
 - Hosted on AWS Cloud
 - A Docker / Jenkins based CI/CD process with different stages
-- Demonstrate basic responsive design with bootstrap table
+- Demonstrate basic responsive design with vuejs & bootstrap
 - Demonstrate basic component structure
 
 ### Links
