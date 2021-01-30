@@ -1,29 +1,16 @@
 # Devops Sample
 
-## Project setup
-```
-npm install
-```
+## Frontend
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Purpose
+A simple CURD with RESTful API and devops process
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Tips
+- Hosted on AWS Cloud
+- A Docker / Jenkins based CI/CD process with different stages
+- Demonstrate basic responsive design with bootstrap table
+- Demonstrate basic component structure
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-## Sample Links
-
-## App: http://18.183.235.161:18000/
-## Jenkins:
+### Links
+- Preview: http://18.183.235.161:18000/
+- Jenkins: http://18.183.235.161:18001/view/devops/
