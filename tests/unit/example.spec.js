@@ -3,7 +3,7 @@ import Index from '@/components/Index.vue'
 
 describe('Index.vue', () => {
   it('renders props.msg when passed', () => {
-    const msg = 'Index is working'
+    const msg = 'Employees ID First Name Last Name Title Year Of Experience Telephone'
     const wrapper = shallowMount(Index, {
       propsData: { msg }
     })
