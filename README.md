@@ -6,7 +6,7 @@
 A simple CURD with RESTful API and devops process
 
 ### Tips
-- Hosted on AWS Cloud with Nginx Docker
+- Hosted on AWS Cloud with Nginx Docker Container
 - A Docker / Jenkins based CI/CD process with different stages
 - Demonstrate basic responsive design with vuejs & bootstrap
 - Demonstrate basic component structure
